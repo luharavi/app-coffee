@@ -1,0 +1,27 @@
+id,nome,categoria,descricao,preco,popular
+espresso,Espresso,Cafés,"Blend da casa. Chocolate amargo, caramelo e corpo denso.",7.00,true
+espresso-duplo,Espresso duplo,Cafés,Duas doses do blend da casa.,10.00,false
+macchiato,Macchiato,Cafés,Espresso com uma colher de espuma de leite.,8.50,false
+cortado,Cortado,Cafés,Espresso e leite vaporizado em partes iguais.,11.00,false
+cappuccino,Cappuccino,Cafés,"Espresso, leite vaporizado e espuma cremosa. Canela opcional.",14.00,true
+flat-white,Flat white,Cafés,Dose dupla com leite em microespuma fina.,14.00,true
+latte,Latte,Cafés,Espresso com bastante leite vaporizado e uma camada leve de espuma.,13.50,false
+mocha,Mocha,Cafés,"Espresso, chocolate meio amargo e leite vaporizado.",16.00,false
+coado-do-dia,Coado do dia,Filtrados,"Sul de Minas, natural. Notas de ameixa seca e rapadura.",12.00,true
+v60,Método V60,Filtrados,Café de origem única preparado na hora. Pergunte a torra da semana.,16.00,false
+cold-brew,Cold brew,Gelados,16 horas de extração a frio. Servido com gelo.,15.00,true
+espresso-tonica,Espresso tônica,Gelados,"Água tônica, gelo e uma dose de espresso por cima.",17.00,false
+latte-gelado,Latte gelado,Gelados,Espresso e leite gelado. Aveia disponível.,15.50,false
+chocolate-quente,Chocolate quente,Outras bebidas,Chocolate 70% derretido no leite vaporizado.,15.00,false
+chai-latte,Chai latte,Outras bebidas,"Chá preto com especiarias, leite vaporizado e mel.",15.00,false
+pao-de-queijo,Pão de queijo,Lanches,Porção com 4 unidades. Queijo canastra e polvilho azedo.,12.00,true
+misto-quente,Misto quente,Lanches,"Pão de fermentação natural, presunto e queijo prato na chapa.",18.00,false
+croissant-presunto-queijo,Croissant de presunto e queijo,Lanches,Croissant amanteigado recheado e aquecido.,22.00,true
+torrada-abacate,Torrada de abacate,Lanches,"Pão de fermentação natural, abacate, limão, pimenta-do-reino e ovo pochê.",28.00,false
+sanduiche-caprese,Sanduíche caprese,Lanches,"Ciabatta, muçarela de búfala, tomate, manjericão e pesto.",29.00,false
+croissant,Croissant,Doces,Massa folhada na manteiga. Assado todas as manhãs.,12.00,false
+brioche-cardamomo,Brioche de cardamomo,Doces,"Massa amanteigada, açúcar de cardamomo por cima.",16.00,true
+bolo-cenoura,Bolo de cenoura,Doces,Fatia com cobertura de chocolate meio amargo.,14.00,true
+brownie,Brownie,Doces,Chocolate 70% com castanha-do-pará. Casca crocante e centro úmido.,13.00,false
+torta-nozes,Torta de nozes,Doces,"Base de biscoito, doce de leite e nozes.",18.00,false
+cookie,Cookie,Doces,Gotas de chocolate meio amargo e flor de sal.,10.00,false
